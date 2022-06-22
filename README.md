@@ -1,5 +1,5 @@
-# First-JavaScript (Calculator)
-A calculator capable of addition, subtraction, multiplication and division only.
+# JavaScript Calculator
+A simple calculator capable of addition, subtraction, multiplication and division only.
 
 ## Description 
 This is a solution to a ZuriXI4G training task, built with;
